@@ -8,4 +8,4 @@ docker build . -t dockertests
 
 docker run -d -p 8090:80 dockertests
 
-after running commands you can navigate to http//localhost:8090 to see the main page or http//localhost:8090/weatherforecast to see the demo api
+after running commands you can navigate to http://localhost:8090 to see the main page or http://localhost:8090/weatherforecast to see the demo api
